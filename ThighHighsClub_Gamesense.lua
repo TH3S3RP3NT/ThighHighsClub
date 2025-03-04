@@ -1,4 +1,10 @@
 --------------------------------------------------------------------------------
+-- ThighHighsClub, Gamesense Version.
+-- Copyright (c) 2025 TH3S3RP3NT.
+-- See the file LICENSE for copying permission.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
 -- Caching common functions
 --------------------------------------------------------------------------------
 local client_delay_call, client_exec, client_userid_to_entindex, entity_get_all, math_random, ui_new_combobox, ui_set_visible, ui_get, entity_get_local_player =
